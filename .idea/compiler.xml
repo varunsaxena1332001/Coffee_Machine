@@ -18,6 +18,12 @@
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
+      <module name="Problems__1_-Invalid_declaration_of_variables_main" target="11" />
+      <module name="Problems__1_-Invalid_declaration_of_variables_test" target="11" />
+      <module name="Problems__2_-Invalid_declaration_of_variables_main" target="11" />
+      <module name="Problems__2_-Invalid_declaration_of_variables_test" target="11" />
+      <module name="Problems__3_-Invalid_declaration_of_variables_main" target="11" />
+      <module name="Problems__3_-Invalid_declaration_of_variables_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
