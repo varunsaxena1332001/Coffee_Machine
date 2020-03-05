@@ -20,17 +20,16 @@ public class CoffeeMachine {
         a[1]=m;
         a[2]=b;
         Arrays.sort(a);
-        System.out.println(a[0]);
 
-        if (a[0]>=cup){
+        if (a[0] == cup) {
             System.out.println("Yes, I can make that amount of coffee");
-        }
-        else if (a[0]<cup){
-            System.out.println("Yes, I can make that amount of coffee (and even "+a[0]+" more than that)");
-        }
-        else {
-            System.out.println("No, I can make only "+0+" cup (s) of coffee");
+        } else if (a[0] < cup || a[0] > cup) {
+            System.out.println("Yes, I can make that amount of coffee (and even " + (a[0] - 1) + " more than that)");
+        } else {
+            System.out.println("No, I can make only " + 0 + " cup (s) of coffee");
         }
 
     }
 }
+
+
