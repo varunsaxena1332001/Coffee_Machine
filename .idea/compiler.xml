@@ -26,6 +26,10 @@
       <module name="Problems__3_-Invalid_declaration_of_variables_test" target="11" />
       <module name="Problems__5_-Assignments_main" target="11" />
       <module name="Problems__5_-Assignments_test" target="11" />
+      <module name="Problems__6_-Assignments_main" target="11" />
+      <module name="Problems__6_-Assignments_test" target="11" />
+      <module name="Problems__7_-Fill_the_declaration_main" target="11" />
+      <module name="Problems__7_-Fill_the_declaration_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
